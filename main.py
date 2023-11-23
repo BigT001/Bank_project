@@ -1,2 +1,0 @@
-from welcome import message
-
